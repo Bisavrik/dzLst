@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\sofia\Downloads\dzMaybeLast\dzMaybeLast\Source.cpp(55,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sofia\Downloads\dzMaybeLast\dzMaybeLast\Source.cpp(56,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  SourceMain.cpp
+  Создание кода...
+  dzMaybeLast.vcxproj -> C:\Users\sofia\Downloads\dzMaybeLast\x64\Debug\dzMaybeLast.exe
